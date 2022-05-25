@@ -61,7 +61,7 @@ def generate_graph(nodes, initial_trusts):
 
     plt.legend(loc="lower right")
 
-    plt.savefig(f"node_data.png")
+    plt.savefig("node_data.png")
 
 
 if __name__ == "__main__":
