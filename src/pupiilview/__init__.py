@@ -5,4 +5,6 @@ pupiil_view.__init__
 - License: MIT LICENSE
 """
 
-from . import view
+from . import ServerData
+
+from . import LocalData
